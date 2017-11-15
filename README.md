@@ -1,8 +1,8 @@
 # SWEng-Tagebuch Marc Schwettmann
 
-| Datum      | Zeit | Tätigkeit                                      |
-| ---------- | ---- | ---------------------------------------- |
-|27.11.2017|1,5h||Wöchentliches Meeting|
+| Datum| Zeit | Tätigkeit|
+| ---------- | ---- | ------------------------|
+|27.11.2017|1,5h|Wöchentliches Meeting|
 |29.10.2017|1,5h|Einarbeitung in Datenbanken|
 |30.10.2017|0,5h|Grundlagen SQL|
 |03.11.2017|1,5h|Wöchentliches Meeting|
