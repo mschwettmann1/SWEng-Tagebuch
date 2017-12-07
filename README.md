@@ -10,3 +10,10 @@
 |09.11.2017|0,5h|User Stories|
 |10.11.2017|1h|Wöchentliches Meeting|
 |14.11.2017|2h|Vorbereitung Vorlesung|
+|17.11.2017|1h|Wöchentliches Meeting|
+|19.11.2017|0,5h|User Stories überarbeitet|
+|21.11.2017|1h|Use Case Diagramme|
+|24.11.2017|1h|Wöchentliches Meeting|
+|28.11.2017|1h|Aktivitätsdiagramme|
+|29.11.2017|1h|phpMyAdmin einarbeitung|
+|01.12.2017|1h|Wöchentliches Meeting|
