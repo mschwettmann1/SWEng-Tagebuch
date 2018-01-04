@@ -17,3 +17,8 @@
 |28.11.2017|1h|Aktivitätsdiagramme|
 |29.11.2017|1h|phpMyAdmin einarbeitung|
 |01.12.2017|1h|Wöchentliches Meeting|
+|06.12.2017|1h|Analyseklassendiagramm|
+|08.12.2017|1h|Wöchentliches Meeting|
+|15.12.2017|1h|Wöchentliches Meeting|
+|20.12.2017|2h|Vorbereitung Vorlesung|
+|22.12.2017|1h|Wöchentliches Meeting|
