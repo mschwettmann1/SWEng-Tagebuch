@@ -22,3 +22,10 @@
 |15.12.2017|1h|Wöchentliches Meeting|
 |20.12.2017|2h|Vorbereitung Vorlesung|
 |22.12.2017|1h|Wöchentliches Meeting|
+|05.01.2018|1h|Wöchentliches Meeting|
+|11.01.2018|1h|Planung Präsentation und Lessons learned|
+|12.01.2018|1h|Wöchentliches Meeting|
+|17.01.2018|2h|Test Cases geschrieben|
+|19.01.2018|1h|Wöchentliches Meeting|
+|23.01.2018|2,5h|Vorbereitung Vorlesung|
+|24.01.2018|1,5h|Vorbereitung Präsentation|
